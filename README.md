@@ -1,4 +1,4 @@
-Predictive Maintenance of Industrial Equipment using Machine Learning
+> Predictive Maintenance of Industrial Equipment using Machine Learning
 
 
 Sure! Here's a sample README file for your project "Predictive Maintenance of Industrial Equipment using ML":
