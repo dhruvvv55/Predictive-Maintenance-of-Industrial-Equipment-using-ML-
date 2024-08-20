@@ -17,3 +17,6 @@ This project aims to predict the maintenance needs of industrial equipment using
 5. Prediction: Forecasting maintenance needs and potential failures.
 
 6. Visualization: Graphical representation of data and predictions for better understanding.
+
+
+You can read my research paper [here]([https://ijarsct.co.in/Paper19379.pdf]).
